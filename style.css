@@ -509,6 +509,9 @@ form button.btn-contato{
 grid-column: 2;
 width: 50%;
 }
+#valorPrazo{
+  margin-left: 3rem;
+}
 
 /******* FOOTER *********/
 footer{
